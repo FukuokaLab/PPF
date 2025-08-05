@@ -1,5 +1,7 @@
 # Presence of focal usual interstitial pneumonia is a key prognostic factor in progressive pulmonary fibrosis
 
+Histopathology. 2024 Jul;85(1):104-115. doi: 10.1111/his.15179. Epub 2024 Apr 4.
+
 Yukio Tsushima 1, Ethan N Okoshi 1, Sousuke Ishijima 1, Andrey Bychkov 2, Kris Lami 1, Shimpei Morimoto 3, Yasuhiko Yamano 4, Kensuke Kataoka 4, Takeshi Johkoh 5, Yasuhiro Kondoh 4, Junya Fukuoka 1
 
 Affiliations
